@@ -1,11 +1,11 @@
-### create virtual envirnoment (if one does not exist)
+### Create a virtual environment (if one does not exist)
 
 python -m venv env
 
-### activate virtual environment
+### Activate virtual environment
 
 env\Scripts\activate
 
-### install all dependencies
+### Install all dependencies
 
 pip install -r requirements.txt
